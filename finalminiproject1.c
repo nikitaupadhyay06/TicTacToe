@@ -5,7 +5,7 @@ Summary: This program is a simulation of the **Tic-Tac-Toe** game. Players can
 implement either two-player mode or player vs Computer (AI mode). The AI will
 have basic strategic capabilities and attempt to win if by preventing you from
 placing moves. The program will also allow customization of grid size and will
-include score tracking across multiple rounds. CHANGE 6
+include score tracking across multiple rounds. CHANGE 7
 */
 
 #include <stdio.h>
