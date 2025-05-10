@@ -1,4 +1,4 @@
-Mini Project 1: TicTacToe
+# Mini Project 1: TicTacToe  
 Author: Nikita Upadhyay
 
 ## 🎮 Summary
