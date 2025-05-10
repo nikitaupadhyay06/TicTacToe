@@ -1,5 +1,5 @@
 # Mini Project 1: TicTacToe  
-Author: Nikita Upadhyay
+### Author: Nikita Upadhyay
 
 ## 🎮 Summary
 This program is a command-line simulation of the classic Tic-Tac-Toe game, written in C. It features both two-player mode and a single-player mode against a computer opponent. The AI uses basic strategy to block the player and attempt to win. The game supports customizable grid sizes for varied gameplay and includes score tracking across multiple rounds. This project demonstrates core C programming concepts such as loops, conditionals, arrays, and user input.
