@@ -14,15 +14,18 @@ This program is a command-line simulation of the classic Tic-Tac-Toe game, writt
 - Modular Code Structure: Organized into reusable functions for easier maintenance and readability.
 
 ## 📥 How to Use
-1. Clone the repository
-- Open your terminal and run:  
+1. **Clone the repository**
+- Open your terminal and run:
+  ```bash  
   git clone https://github.com/nikitaupadhyay06/TicTacToe.git  
   cd TicTacToe
 
-2. Compile the program
+2. **Compile the program**
 - Use GCC (or any C compiler) to compile:  
+  ```bash  
   gcc finalminiproject1.c -o tictactoe
 
-3. Run the game 
-- Once compiled, start the game with:  
+3. **Run the game** 
+- Once compiled, start the game with:
+  ```bash  
   ./tictactoe
