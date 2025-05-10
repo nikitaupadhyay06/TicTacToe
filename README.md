@@ -1,16 +1,28 @@
-# Tic Tac Toe
+Mini Project 1: TicTacToe
+Author: Nikita Upadhyay
 
-A simple command-line Tic Tac Toe game written in C.
+## 🎮 Summary
+This program is a command-line simulation of the classic Tic-Tac-Toe game, written in C. It features both two-player mode and a single-player mode against a computer opponent. The AI uses basic strategy to block the player and attempt to win. The game supports customizable grid sizes for varied gameplay and includes score tracking across multiple rounds. This project demonstrates core C programming concepts such as loops, conditionals, arrays, and user input.
 
-## Features
-- Two-player mode
-- Input validation
-- Win and draw detection
-- Easy to run on any system with a C compiler
+## 🚀 Features
+- Two Game Modes: Play in either two-player mode or versus a computer-controlled opponent.
+- Basic AI Strategy: The AI makes strategic decisions to block the player and aim for a win.
+- Customizable Grid Size: Choose different board sizes to vary gameplay beyond the standard 3x3.
+- Score Tracking: Automatically tracks wins, losses, and draws across multiple rounds.
+- Input Validation: Prevents invalid or duplicate moves by checking user input.
+- Clear Command-Line Interface: Neatly displays the game board and results in the terminal.
+- Modular Code Structure: Organized into reusable functions for easier maintenance and readability.
 
-## How to Run
+## 📥 How to Use
+1. Clone the repository
+- Open your terminal and run:
+  git clone https://github.com/nikitaupadhyay06/TicTacToe.git
+  cd TicTacToe
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/nikitaupadhyay06/TicTacToe.git
-   cd TicTacToe
+2. Compile the program 
+- Use GCC (or any C compiler) to compile:
+  gcc finalminiproject1.c -o tictactoe
+
+3. Run the game 
+- Once compiled, start the game with:
+  ./tictactoe
