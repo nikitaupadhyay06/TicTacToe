@@ -17,7 +17,7 @@ This program is a command-line simulation of the classic Tic-Tac-Toe game, writt
 1. **Clone the repository**
 - Open your terminal and run:
   ```bash  
-  git clone https://github.com/nikitaupadhyay06/TicTacToe.git  
+  git clone https://github.com/nikitaupadhyayy/TicTacToe.git  
   cd TicTacToe
 
 2. **Compile the program**
